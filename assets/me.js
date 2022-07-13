@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "cherri.gq", "cherri.g", "cherri.", "cherr", "cher", "che", "ch", "c", "ch", "che", "cher", "cherr", "cherri", "cherri.g", "cherri.gq", "cherri.gq wel", "cherri.gq welcome"];
+var titleText = [ "cherri.cf", "cherri.c", "cherri.", "cherr", "cher", "che", "ch", "c", "ch", "che", "cher", "cherr", "cherri", "cherri.c", "cherri.cf", "cherri.cf wel", "cherri.cf welcome"];
 
 function loop(){
 
