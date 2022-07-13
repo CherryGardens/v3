@@ -11,11 +11,11 @@ var _app = function () {
     this.brandDescription = [
         "Cherri#7989 ", 
         "dsc.gg/clients ",
-        "YouTube Content Creator ", 
+        "cherri.cf | Forked from crazy.rip  ", 
         "I cheat in Minecraft", 
-        "$ Fuck P2W Servers",
+        "Sigma Client best $$$",
         "♪ Issac Dunbar - Fan Behavior  ",
-        "cherri.gq | Forked from crazy.rip " ,
+        "youtube.com/cherrymc" ,
     ];
 
 
