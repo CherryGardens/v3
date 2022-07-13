@@ -38,13 +38,13 @@
             },
             
             {
-                name: 'socials',
-                link: 'https://bio.cherri.gq'
+                name: 'downloads',
+                link: 'https://dl.cherri.cf'
             },
             
             {
-                name: 'solo.to',
-                link: 'https://solo.to/overload'
+                name: 'ayo.so',
+                link: 'https://ayo.so/cherri'
             },
             
 
