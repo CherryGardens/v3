@@ -30,7 +30,7 @@ $(document).ready(async function() {
             $("#site").prepend('<img class="showcase" style="object-fit:cover; object-position:60%; height: 100vh; width: 100vw" alt="MatHax" title="MatHax" src="resources/images/background.png">');
             finishLoad()
         } else {
-            $("#site").prepend('<video class="showcase" id="video" autoplay muted loop><source src="https://www.cherri.gq/images/video-bg.mp4" type="video/mp4"></video>');
+            $("#site").prepend('<video class="showcase" id="video" autoplay muted loop><source src="https://www.cherri.cf/images/video-bg.mp4" type="video/mp4"></video>');
             $("#video").bind('loadeddata', function(e) {
                 finishLoad()
             });
